@@ -1,0 +1,15 @@
+{
+    "id": "123",
+    "name": "updated",
+    "updated": "2023-04-01T22:14:15",
+    "contact": {
+        "phone": "555-555-5555",
+        "updated": "2023-04-01T22:14:15"
+    },
+    "address": {
+        "street": "123 Main Street",
+        "updated": "2023-04-01T22:14:15",
+        "state": "CA",
+        "zip": "12345"
+    }
+}
